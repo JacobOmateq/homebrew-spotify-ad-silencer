@@ -6,7 +6,7 @@ This is a Homebrew tap for the Spotify Ad Silencer application.
 
 ```bash
 # Add the tap
-brew tap jacobomate/spotify-ad-silencer
+brew tap JacobOmateq/spotify-ad-silencer
 
 # Install the application
 brew install spotify-ad-silencer
