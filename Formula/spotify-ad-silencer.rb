@@ -1,9 +1,9 @@
 class SpotifyAdSilencer < Formula
   desc "Cross-platform Spotify ad silencer - completely FREE!"
   homepage "https://github.com/JacobOmateq/spotify-ad-silencer"
-  url "https://github.com/JacobOmateq/spotify-ad-silencer/releases/download/v1.0.5/SpotifyAdSilencer-darwin-portable.zip"
-  sha256 "PLACEHOLDER_SHA256"  # This will be automatically updated by GitHub Actions
-  version "1.0.5"
+  url "https://github.com/JacobOmateq/spotify-ad-silencer/releases/download/v1.0.6/SpotifyAdSilencer-darwin-portable.zip"
+  sha256 "6543069a7186e2b8a113bd773d2c23a6dc43f7881b7b5a14f824487946a09a54"
+  version "1.0.6"
   license "MIT"
 
   def install
